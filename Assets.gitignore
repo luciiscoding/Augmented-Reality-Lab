@@ -1,0 +1,8 @@
+# Ignoră întregul folder Assets
+Assets/
+
+Assets/*.psd
+Assets/*.mp4
+Assets/*.zip
+Assets/*.log
+
